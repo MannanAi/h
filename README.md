@@ -1,1 +1,61 @@
 # MannanTamil
+
+<!DOCTYPE html>
+	
+<html lang="en" >
+<head><meta charset="UTF-8">
+<title>Hello</title></head>
+
+<style type="text/css">
+
+body { margin: 0; } 
+div#slider { overflow: hidden; } 
+div#slider figure img { width: 20%; float: left; }
+
+div#slider figure { 
+  position: relative;
+  width: 500%;
+  margin: 0;
+  left: 0;
+  text-align: left;
+  font-size: 0;
+  animation: 10s slidy infinite; 
+}
+
+@keyframes slidy {
+0% { left: 0%; }
+20% { left: 0%; }
+25% { left: -100%; }
+45% { left: -100%; }
+50% { left: -200%; }
+70% { left: -200%; }
+75% { left: -300%; }
+95% { left: -300%; }
+100% { left: -400%; }
+}
+</style>
+
+<body>
+	
+<div id="slider">
+<figure>
+<a href="https://youtube.com/c/MayilGaming">
+<img src="https://i.postimg.cc/g26CqXd2/20240610-070526.jpg" alt="">
+<a href="https://www.instagram.com/mannantamil_offl?igsh=MWVjNWF6Y2lpYnJzYQ==">
+<img src="https://i.postimg.cc/gJNcFXxP/20240610-070602.jpg" alt="">
+<a href="https://mannanai.github.io/MannanTamil">
+<img src="https://i.postimg.cc/y8ZF1BhG/20240610-070640.jpg" alt="">
+<a href="https://mannanai.github.io/MannanTamil">
+<img src="https://i.postimg.cc/TPvHGtbr/20240610-070712.jpg" alt="">
+</figure>
+</div>
+
+</body>
+</html>
+
+# Social Media 
+
+<center>
+<a href="https://www.instagram.com/mannantamil_offl?igsh=MWVjNWF6Y2lpYnJzYQ==" target="_blank"><img alt="" height="60" src="https://4.bp.blogspot.com/-Ilxti1UuUuI/XCrIy6hBAcI/AAAAAAAAH_k/QV5KbuB9p3QB064J08W2v-YRiuslTZnLgCLcBGAs/s1600/instagram.png" title="" width="60" /></a>
+<a href="https://youtube.com/c/MayilGaming" target="_blank"><img alt="" height="60" src="https://i.postimg.cc/Jn1Lkq2Z/20240610-072240.jpg" title="" width="60" /></a>
+<div class="" style="clear: both; text-align: center;"><br /></div><br /><div class="" style="clear: both; text-align: center;"><br /></div><br /></center>
